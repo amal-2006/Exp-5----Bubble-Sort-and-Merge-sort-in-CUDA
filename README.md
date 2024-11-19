@@ -1,15 +1,13 @@
 # Exp5 Bubble Sort and Merge sort in CUDA
 <h3>NAME: AMALJOSH MAADHAV J</h3>
 <h3>REGISTER NO: 212223230012</h3>
-<h3>EX. NO: 1</h3>
+<h3>EX. NO: 5</h3>
 <h3>DATE:</h3>
-**Objective:**
-Implement Bubble Sort and Merge Sort on the GPU using CUDA, analyze the efficiency of this sorting algorithm when parallelized, and explore the limitations of Bubble Sort and Merge Sort for large datasets.
-## AIM:
-Implement Bubble Sort and Merge Sort on the GPU using CUDA to enhance the performance of sorting tasks by parallelizing comparisons and swaps within the sorting algorithm.
 
-Code Overview:
-You will work with the provided CUDA implementation of Bubble Sort and Merge Sort. The code initializes an unsorted array, applies the Bubble Sort, Merge Sort algorithm in parallel on the GPU, and returns the sorted array as output.
+## AIM:
+To Implement Bubble Sort and Merge Sort on the GPU using CUDA to enhance the performance of sorting tasks by parallelizing comparisons and swaps within the sorting algorithm.
+
+
 
 ## EQUIPMENTS REQUIRED:
 Hardware – PCs with NVIDIA GPU & CUDA NVCC, Google Colab with NVCC Compiler, CUDA Toolkit installed, and sample datasets for testing.
